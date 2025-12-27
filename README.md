@@ -255,14 +255,7 @@ Adaptive agents that detect human cognitive state in real-time and adjust inform
 
 ## License & Usage
 
-**Internal Use:** All materials are proprietary to CosentriQ and intended for:
-- Grant applications
-- Investor presentations
-- Customer education
-- Engineering implementation
-- Research publication
-
-**External Use:** Contact before sharing publicly or with third parties.
+**External Use:** Contact before sharing publicly or with third parties. All materials are proprietary to CosentriQ.
 
 **GitHub Publication:** Framework documentation (OAI³) may be published publicly to establish category. Product specifications (CosentriQ) remain private.
 
