@@ -253,11 +253,13 @@ Adaptive agents that detect human cognitive state in real-time and adjust inform
 
 ---
 
-## License & Usage
+## License
 
-**External Use:** Contact before sharing publicly or with third parties. All materials are proprietary to CosentriQ.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
-**GitHub Publication:** Framework documentation (OAI³) may be published publicly to establish category. Product specifications (CosentriQ) remain private.
+**TL;DR:** You can read, learn from, and cite this work. You cannot use it commercially without permission.
+
+Copyright © 2025 Ariana Abramson. All rights reserved.
 
 ---
 
